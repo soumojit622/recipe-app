@@ -1,6 +1,6 @@
 # 🍲 Recipe Search App
 
-![Logo](https://raw.githubusercontent.com/soumojit622/recipe-app/eb9bf0fefbad9cb450111365475cb16e8065aff8/public/logo1.svg)
+![Logo](https://raw.githubusercontent.com/soumojit622/recipe-app/b588bd8b5aa92dfa007620ca79d0821353db903d/public/dark.svg)
 
 ## 📚 Table of Contents
 
