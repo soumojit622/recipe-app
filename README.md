@@ -1,6 +1,6 @@
 # 🍲 Recipe Search App
 
-![Logo](https://your-logo-url-here)
+![Logo](https://raw.githubusercontent.com/soumojit622/recipe-app/eb9bf0fefbad9cb450111365475cb16e8065aff8/public/logo1.svg)
 
 ## 📚 Table of Contents
 
@@ -28,7 +28,7 @@ Recipe Search App is a modern and responsive web application that allows users t
 
 ## 🌐 Demo
 
-You can view a live demo of the app [here]([https://your-app-url.vercel.app](https://recipe-app-vert-eight.vercel.app/)).
+You can view a live demo of the app [here](https://recipe-app-vert-eight.vercel.app/).
 
 ## 🛠️ Technologies Used
 
@@ -67,8 +67,8 @@ Make sure you have the following installed:
 
 1. Create a `.env` file in the root directory and add your Edamam API credentials:
     ```env
-    VITE_APP_ID = your_edamam_app_id;
-    VITE_APP_KEY = your_edamam_app_key;
+    VITE_APP_ID=your_edamam_app_id
+    VITE_APP_KEY=your_edamam_app_key
     ```
 
 2. Start the development server:
